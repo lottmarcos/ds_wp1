@@ -1,0 +1,32 @@
+{
+   "makefile.extensionOutputFolder": "./.vscode",
+   "C_Cpp.errorSquiggles": "Enabled",
+   "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "iosfwd": "cpp",
+      "fstream": "cpp",
+      "*.tcc": "cpp",
+      "cctype": "cpp",
+      "clocale": "cpp",
+      "cmath": "cpp",
+      "cstdint": "cpp",
+      "cstdio": "cpp",
+      "cstdlib": "cpp",
+      "cwchar": "cpp",
+      "cwctype": "cpp",
+      "exception": "cpp",
+      "initializer_list": "cpp",
+      "istream": "cpp",
+      "limits": "cpp",
+      "new": "cpp",
+      "sstream": "cpp",
+      "stdexcept": "cpp",
+      "streambuf": "cpp",
+      "string": "cpp",
+      "string_view": "cpp",
+      "system_error": "cpp",
+      "type_traits": "cpp",
+      "typeinfo": "cpp"
+   }
+}
